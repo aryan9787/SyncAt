@@ -1,15 +1,47 @@
 # Real-Time Chat Application
 
-A full-stack real-time chat application built using the MERN stack with WebSocket-based communication powered by Socket.io. The application supports instant messaging, channel-based conversations, file sharing, authentication, and live user interaction in a responsive and scalable environment.
+A full-stack real-time chat application built using the MERN stack with WebSocket-based communication powered by Socket.IO. The application supports instant messaging, channel-based conversations, file sharing, authentication, and live user interaction in a responsive and scalable environment.
 
 ## Live Demo
 
-🔗 [View Project](https://syncat.netlify.app)
+[View Project](https://syncat.netlify.app)
+
+## Screenshots
+
+### 1. Dashboard
+
+Displays the application dashboard with direct messages, channels, and user profile options.
+
+![Dashboard](screenshots/Dashboard.png)
+
+### 2. Real-Time Chat
+
+One-to-one messaging interface with timestamps, message history, and a message composer.
+
+![Chat Interface](screenshots/Chat.png)
+
+### 3. File Sharing
+
+Share images and documents directly within conversations.
+
+![File Sharing](screenshots/File_transfer.png)
+
+### 4. Authentication
+
+Login interface for accessing the application.
+
+![Login Page](screenshots/Login_page.png)
+
+### 5. Profile Customization
+
+Customize profile details, avatar, and appearance settings.
+
+![Profile Setup](screenshots/Profile_setup.png)
 
 ## Features
 
 - Real-time one-to-one and channel messaging
-- WebSocket communication using Socket.io
+- WebSocket communication using Socket.IO
 - User authentication and authorization
 - File and media sharing support
 - Online/offline user status updates
@@ -22,13 +54,13 @@ A full-stack real-time chat application built using the MERN stack with WebSocke
 
 ### Frontend
 - React.js
-- CSS / Tailwind CSS (if applicable)
+- CSS / Tailwind CSS
 - Axios
 
 ### Backend
 - Node.js
 - Express.js
-- Socket.io
+- Socket.IO
 
 ### Database
 - MongoDB
@@ -47,6 +79,6 @@ REST APIs + WebSockets
         |
 Server (Node.js + Express.js)
         |
-Socket.io Real-Time Engine
+Socket.IO Real-Time Engine
         |
 MongoDB Database
