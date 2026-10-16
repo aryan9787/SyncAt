@@ -12,31 +12,31 @@ A full-stack real-time chat application built using the MERN stack with WebSocke
 
 Displays the application dashboard with direct messages, channels, and user profile options.
 
-![Dashboard](screenshots/Dashboard.png)
+![Dashboard](Dashboard.png)
 
 ### 2. Real-Time Chat
 
 One-to-one messaging interface with timestamps, message history, and a message composer.
 
-![Chat Interface](screenshots/Chat.png)
+![Chat Interface](Chat.png)
 
 ### 3. File Sharing
 
 Share images and documents directly within conversations.
 
-![File Sharing](screenshots/File_transfer.png)
+![File Sharing](File_transfer.png)
 
 ### 4. Authentication
 
 Login interface for accessing the application.
 
-![Login Page](screenshots/Login_page.png)
+![Login Page](Login_page.png)
 
 ### 5. Profile Customization
 
 Customize profile details, avatar, and appearance settings.
 
-![Profile Setup](screenshots/Profile_setup.png)
+![Profile Setup](Profile_setup.png)
 
 ## Features
 
